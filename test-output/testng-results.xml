@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T14:08:36 IST" name="Suite" finished-at="2024-06-19T14:08:44 IST" duration-ms="8058">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T14:08:36 IST" name="Test" finished-at="2024-06-19T14:08:44 IST" duration-ms="8058">
+      <class name="api.test.orderTests">
+        <test-method is-config="true" signature="category()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:36 IST" name="category" finished-at="2024-06-19T14:08:37 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- category -->
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:37 IST" name="dataSetup" finished-at="2024-06-19T14:08:37 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method signature="postOrder()[pri:1, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:37 IST" name="postOrder" finished-at="2024-06-19T14:08:40 IST" duration-ms="3070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postOrder -->
+        <test-method is-config="true" signature="category()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:40 IST" name="category" finished-at="2024-06-19T14:08:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- category -->
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:40 IST" name="dataSetup" finished-at="2024-06-19T14:08:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method signature="getOrder()[pri:2, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:40 IST" name="getOrder" finished-at="2024-06-19T14:08:41 IST" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOrder -->
+        <test-method is-config="true" signature="category()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:41 IST" name="category" finished-at="2024-06-19T14:08:41 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- category -->
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:41 IST" name="dataSetup" finished-at="2024-06-19T14:08:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method signature="updateOrder()[pri:3, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:41 IST" name="updateOrder" finished-at="2024-06-19T14:08:43 IST" duration-ms="1615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateOrder -->
+        <test-method is-config="true" signature="category()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:43 IST" name="category" finished-at="2024-06-19T14:08:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- category -->
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:43 IST" name="dataSetup" finished-at="2024-06-19T14:08:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method signature="deleteOrder()[pri:4, instance:api.test.orderTests@6f3187b0]" started-at="2024-06-19T14:08:43 IST" name="deleteOrder" finished-at="2024-06-19T14:08:44 IST" duration-ms="1521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrder -->
+      </class> <!-- api.test.orderTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
